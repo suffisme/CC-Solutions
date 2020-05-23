@@ -7,5 +7,5 @@
 - [Car Names](Hackerearth/car-names.cpp)
 - [Print Hackerearth](Hackerearth/print-hackerearth.cpp)
 - [Psychic Problems](Hackerearth/psychic-problems.cpp)
-- [Rain Sound](rain-sound.cpp)
+- [Rain Sound](Hackerearth/rain-sound.cpp)
 
