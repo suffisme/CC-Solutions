@@ -8,3 +8,20 @@
 - [Print Hackerearth](Hackerearth/print-hackerearth.cpp)
 - [Psychic Problems](Hackerearth/psychic-problems.cpp)
 - [Rain Sound](Hackerearth/rain-sound.cpp)
+
+## Codeforces
+### Problems Included (Named Before Problem Code):
+- [112-A](Codeforces/112-A)
+- [136-A](Codeforces/136-A)
+- [144-A](Codeforces/144-A)
+- [152-A](Codeforces/152-A)
+- [263-A](Codeforces/263-A)
+- [268-A](Codeforces/268-A)
+- [339-A](Codeforces/339-A)
+- [339-B](Codeforces/339-B)
+- [443-A](Codeforces/443-A)
+- [1315-A](Codeforces/1315-A)
+- [1315-B](Codeforces/1315-B)
+- [1315-C](Codeforces/1315-C)
+- [1343-C](Codeforces/1343-C)
+
