@@ -8,4 +8,3 @@
 - [Print Hackerearth](Hackerearth/print-hackerearth.cpp)
 - [Psychic Problems](Hackerearth/psychic-problems.cpp)
 - [Rain Sound](Hackerearth/rain-sound.cpp)
-
