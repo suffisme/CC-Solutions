@@ -11,7 +11,7 @@
 
 ## Codeforces
 ### Problems Included (Named Before Problem Code):
-- [112-A](Codeforces/112-A)
+- [112-A](Codeforces/112-A) 
 - [136-A](Codeforces/136-A)
 - [144-A](Codeforces/144-A)
 - [152-A](Codeforces/152-A)
@@ -25,3 +25,8 @@
 - [1315-C](Codeforces/1315-C)
 - [1343-C](Codeforces/1343-C)
 
+> Note : if you want to visit question page, follow this link format : 
+```
+https://codeforces.com/problemset/problem/<ProblemCode>/<ProblemSet>
+```
+> Example : For problem 112-A : Go to - https://codeforces.com/problemset/problem/112/A 
