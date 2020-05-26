@@ -6,7 +6,7 @@ int main()
 {
     string s;
     cin>>s;
-    int m=1,j=0,p=(int)s[0], l = s.length();
+    int m=1,j=0,l = s.length();
     for(int i=0;i<l;i++)
     {
         if(s[i]==s[i-1] and i>0)
