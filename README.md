@@ -10,6 +10,8 @@
 - [Bricks Game](Hackerearth/Bricks-Game.cpp)
 - [Car Names](Hackerearth/car-names.cpp)
 - [Cipher](Hackerearth/Cipher.cpp)
+- [City Group](Hackerearth/City-group.cpp)
+- [Complete The Syllabus](Hackerearth/Complete-The-Syllabus.cpp)
 - [Cost of balloons](Hackerearth/Cost-of-balloons.cpp)
 - [Database](Hackerearth/Database.cpp)
 - [Divisible](Hackerearth/Divisible.cpp)
@@ -19,6 +21,7 @@
 - [Ladderophilia](Hackerearth/Ladderophilia.cpp)
 - [Life-Universe-And-Everything](Hackerearth/Life-Universe-And-Everything.cpp)
 - [Lift queries](Hackerearth/Lift-queries.cpp)
+- [Magical Tress](Hackerearth/Magical-Tree.cpp)
 - [Magical word](Hackerearth/Magical-word.cpp)
 - [Min Max](Hackerearth/Min-Max.cpp)
 - [Monks Encounter with Polynomial.cpp](Hackerearth/Monks-Encounter-with-Polynomial.cpp)
@@ -31,6 +34,7 @@
 - [Roy and Profile Picture](Hackerearth/Roy-and-Profile-Picture.cpp)
 - [Seating Arrangement](Hackerearth/Seating-Arrangement.cpp)
 - [Split house](Hackerearth/Split-house.cpp)
+- [String Game](Hackerearth/String-game.cpp)
 - [Two Strings](Hackerearth/Two-Strings.cpp)
 
 ## Codeforces
