@@ -35,7 +35,9 @@
 - [Seating Arrangement](Hackerearth/Seating-Arrangement.cpp)
 - [Split house](Hackerearth/Split-house.cpp)
 - [String Game](Hackerearth/String-game.cpp)
+- [The Corona Virus](Hackerearth/The-Corona-Virus.cpp)
 - [Two Strings](Hackerearth/Two-Strings.cpp)
+- [Xor and Project](Hackerearth/Xor-And-Project.cpp)
 
 ## Codeforces
 ### Problems Included (Named Before Problem Code):
