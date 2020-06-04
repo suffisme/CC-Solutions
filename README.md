@@ -37,6 +37,7 @@
 - [Split house](Hackerearth/Split-house.cpp)
 - [Strange Game](Hackerearth/Strange-Game.cpp)
 - [String Game](Hackerearth/String-game.cpp)
+- [Team Selection](Hackerearth/Team-Selection.cpp)
 - [The Corona Virus](Hackerearth/The-Corona-Virus.cpp)
 - [Two Strings](Hackerearth/Two-Strings.cpp)
 - [Xor and Project](Hackerearth/Xor-And-Project.cpp)
