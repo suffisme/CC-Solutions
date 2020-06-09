@@ -72,6 +72,7 @@
 - [1348-A](Codeforces/1348-A)
 - [1352-B](Codeforces/1352-B)
 - [1353-A](Codeforces/1353-A)
+- [1353-B](Codeforces/1353-B)
 - [1354-A](Codeforces/1354-A)
 - [1359-A](Codeforces/1359-A)
 - [1360-A](Codeforces/1360-A)
