@@ -37,6 +37,7 @@
 - [One String No Trouble](Hackerearth/One-String-No-Trouble.cpp)
 - [Plus Plus](Hackerearth/Plus-Plus.cpp)
 - [Polygon Possibility](Hackerearth/Polygon-Possibility.cpp)
+- [Prime Interval](Hackerearth/Prime-Interval.cpp)
 - [Prime String](Hackerearth/Prime-String.cpp)
 - [Print Hackerearth](Hackerearth/Print-Hackerearth.cpp)
 - [Psychic Powers](Hackerearth/Psychic-Powers.cpp)
