@@ -2,6 +2,7 @@
  Created this repository to upload some ***solutions*** of _Hackerearth_ and _Codeforces_.
 ## Hackerearth
 ### Problems Included:
+
 - [2 arrays](Hackerearth/2-arrays.cpp)
 - [Addition aint simple](Hackerearth/Addition-aint-simple.cpp)
 - [Aman Mrsharma](Hackerearth/Aman-Mrsharma.cpp)
@@ -9,6 +10,7 @@
 - [Array Insert](Hackerearth/Array-Insert.cpp)
 - [Array Modification](Hackerearth/Array-Modification.cpp)
 - [Binary Queries](Hackerearth/Binary-Queries.cpp)
+- [Bishu and Soldiers](Hackerearth/Bishu-and-Soldiers.cpp)
 - [Book of Potion Making](Hackerearth/Book-of-Potion-Making.cpp)
 - [Bricks Game](Hackerearth/Bricks-Game.cpp)
 - [Car Names](Hackerearth/Car-Names.cpp)
@@ -36,6 +38,7 @@
 - [Monk And Power Of Time](Hackerearth/Monk-And-Power-Of-Time.cpp)
 - [Monks Encounter with Polynomial](Hackerearth/Monks-Encounter-with-Polynomial.cpp)
 - [One String No Trouble](Hackerearth/One-String-No-Trouble.cpp)
+- [Picu Bank](Hackerearth/Picu-Bank.cpp)
 - [Pizza Confusion](Hackerearth/Pizza-Confusion.cpp)
 - [Plus Plus](Hackerearth/Plus-Plus.cpp)
 - [Polygon Possibility](Hackerearth/Polygon-Possibility.cpp)
@@ -48,8 +51,10 @@
 - [Rain Sound](Hackerearth/Rain-Sound.cpp)
 - [Roy and Profile Picture](Hackerearth/Roy-and-Profile-Picture.cpp)
 - [Seating Arrangement](Hackerearth/Seating-Arrangement.cpp)
+- [Sherlock and Number](Hackerearth/Sherlock-and-Number.cpp)
 - [Some Space Cakewalk](Hackerearth/Some-Space-Cakewalk.cpp)
 - [Split house](Hackerearth/Split-house.cpp)
+- [Stones Love](Hackerearth/Stones-Love.cpp)
 - [Strange Game](Hackerearth/Strange-Game.cpp)
 - [String game](Hackerearth/String-game.cpp)
 - [Takeoff](Hackerearth/Takeoff.cpp)
